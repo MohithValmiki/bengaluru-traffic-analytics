@@ -7,11 +7,11 @@ Power BI project analyzing Bengaluru traffic patterns, congestion, and trends us
 This project analyzes traffic patterns in Bengaluru using Power BI. It provides insights into congestion levels, traffic volume, and travel time across different areas. The dashboard helps understand how factors like weather and road construction affect traffic.
 
 ## Objectives
-1.Analyze traffic congestion across major areas.
-2.Study impact of weather on traffic.
-3.Evaluate road performance.
-4.Understand public transport usage vs congestion.
-5.Identify traffic trends over time.
+- Analyze traffic congestion across major areas.
+- Study impact of weather on traffic.
+- Evaluate road performance.
+- Understand public transport usage vs congestion.
+- Identify traffic trends over time.
 
 ## Dataset Features
 
